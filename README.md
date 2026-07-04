@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Sumann05/leetcode/tree/master/0724-find-pivot-index) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumann05/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1732-find-the-highest-altitude](https://github.com/Sumann05/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Dynamic Programming
@@ -17,5 +18,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Sumann05/leetcode/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Sumann05/leetcode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
