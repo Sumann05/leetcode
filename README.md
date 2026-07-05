@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumann05/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1732-find-the-highest-altitude](https://github.com/Sumann05/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sumann05/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/Sumann05/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Sumann05/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Sumann05/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sumann05/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/Sumann05/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## String
 |  |
 | ------- |
@@ -40,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/Sumann05/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+## Matrix
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/Sumann05/leetcode/tree/master/2352-equal-row-and-column-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/Sumann05/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
