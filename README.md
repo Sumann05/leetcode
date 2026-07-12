@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sumann05/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0399-evaluate-division](https://github.com/Sumann05/leetcode/tree/master/0399-evaluate-division) |
 | [0724-find-pivot-index](https://github.com/Sumann05/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Sumann05/leetcode/tree/master/0735-asteroid-collision) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sumann05/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Sumann05/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 ## Counting
 |  |
@@ -176,4 +178,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Sumann05/leetcode/tree/master/0399-evaluate-division) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sumann05/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sumann05/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sumann05/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
