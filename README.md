@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Sumann05/leetcode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/Sumann05/leetcode/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sumann05/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sumann05/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -228,4 +229,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sumann05/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0216-combination-sum-iii](https://github.com/Sumann05/leetcode/tree/master/0216-combination-sum-iii) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sumann05/leetcode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sumann05/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
