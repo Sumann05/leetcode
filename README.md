@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Sumann05/leetcode/tree/master/0399-evaluate-division) |
 | [0724-find-pivot-index](https://github.com/Sumann05/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Sumann05/leetcode/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/Sumann05/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/Sumann05/leetcode/tree/master/0994-rotting-oranges) |
 | [1207-unique-number-of-occurrences](https://github.com/Sumann05/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumann05/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/Sumann05/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sumann05/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumann05/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
