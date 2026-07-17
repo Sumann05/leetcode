@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sumann05/leetcode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/Sumann05/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Sumann05/leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Sumann05/leetcode/tree/master/0198-house-robber) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sumann05/leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sumann05/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sumann05/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [1207-unique-number-of-occurrences](https://github.com/Sumann05/leetcode/tree/master/1207-unique-number-of-occurrences) |
