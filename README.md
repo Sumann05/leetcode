@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Sumann05/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sumann05/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sumann05/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Sumann05/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Sumann05/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sumann05/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumann05/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sumann05/leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Sumann05/leetcode/tree/master/0062-unique-paths) |
+| [1137-n-th-tribonacci-number](https://github.com/Sumann05/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
@@ -298,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/Sumann05/leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Sumann05/leetcode/tree/master/0901-online-stock-span) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Sumann05/leetcode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
