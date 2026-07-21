@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sumann05/leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Sumann05/leetcode/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/Sumann05/leetcode/tree/master/0062-unique-paths) |
 | [1137-n-th-tribonacci-number](https://github.com/Sumann05/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Combinatorics
