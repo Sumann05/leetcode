@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sumann05/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sumann05/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Sumann05/leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Sumann05/leetcode/tree/master/0015-3sum) |
 | [0136-single-number](https://github.com/Sumann05/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Sumann05/leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Sumann05/leetcode/tree/master/0198-house-robber) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sumann05/leetcode/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sumann05/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Sumann05/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sumann05/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sumann05/leetcode/tree/master/0015-3sum) |
 | [1768-merge-strings-alternately](https://github.com/Sumann05/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sumann05/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sumann05/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
