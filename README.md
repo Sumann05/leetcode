@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sumann05/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sumann05/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Sumann05/leetcode/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/Sumann05/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Sumann05/leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Sumann05/leetcode/tree/master/0198-house-robber) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sumann05/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Sumann05/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sumann05/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0072-edit-distance](https://github.com/Sumann05/leetcode/tree/master/0072-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sumann05/leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Sumann05/leetcode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sumann05/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [1268-search-suggestions-system](https://github.com/Sumann05/leetcode/tree/master/1268-search-suggestions-system) |
 ## Monotonic Stack
