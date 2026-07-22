@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Sumann05/leetcode/tree/master/0072-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sumann05/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0399-evaluate-division](https://github.com/Sumann05/leetcode/tree/master/0399-evaluate-division) |
+| [0443-string-compression](https://github.com/Sumann05/leetcode/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/Sumann05/leetcode/tree/master/0649-dota2-senate) |
 | [1143-longest-common-subsequence](https://github.com/Sumann05/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/Sumann05/leetcode/tree/master/1268-search-suggestions-system) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sumann05/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Sumann05/leetcode/tree/master/0015-3sum) |
+| [0443-string-compression](https://github.com/Sumann05/leetcode/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/Sumann05/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sumann05/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sumann05/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
