@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/Sumann05/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Sumann05/leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Sumann05/leetcode/tree/master/2542-maximum-subsequence-score) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Sumann05/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/Sumann05/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/Sumann05/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/Sumann05/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Sumann05/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Sumann05/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1268-search-suggestions-system](https://github.com/Sumann05/leetcode/tree/master/1268-search-suggestions-system) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Sumann05/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Sumann05/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -316,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/Sumann05/leetcode/tree/master/1137-n-th-tribonacci-number) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Sumann05/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
