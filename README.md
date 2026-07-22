@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Sumann05/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sumann05/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/Sumann05/leetcode/tree/master/0872-leaf-similar-trees) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Sumann05/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sumann05/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sumann05/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sumann05/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Sumann05/leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Sumann05/leetcode/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/Sumann05/leetcode/tree/master/0872-leaf-similar-trees) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Sumann05/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sumann05/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sumann05/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sumann05/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Sumann05/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sumann05/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/Sumann05/leetcode/tree/master/0872-leaf-similar-trees) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Sumann05/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sumann05/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sumann05/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sumann05/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
