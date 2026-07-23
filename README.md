@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/Sumann05/leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Sumann05/leetcode/tree/master/2542-maximum-subsequence-score) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sumann05/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Sumann05/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Sumann05/leetcode/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/Sumann05/leetcode/tree/master/0062-unique-paths) |
 | [1137-n-th-tribonacci-number](https://github.com/Sumann05/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Sumann05/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Sumann05/leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sumann05/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sumann05/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Sumann05/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Trie
 |  |
 | ------- |
