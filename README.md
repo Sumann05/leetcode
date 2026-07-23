@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Sumann05/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Sumann05/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sumann05/leetcode/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sumann05/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/Sumann05/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Sumann05/leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Sumann05/leetcode/tree/master/0198-house-robber) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Sumann05/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Sumann05/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sumann05/leetcode/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sumann05/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Sumann05/leetcode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/Sumann05/leetcode/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/Sumann05/leetcode/tree/master/1768-merge-strings-alternately) |
